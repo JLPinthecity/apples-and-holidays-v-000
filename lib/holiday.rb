@@ -119,7 +119,7 @@ def all_supplies_in_holidays(holiday_hash)
   holiday_hash.each do |season, holidays|
     holidays.each do |holiday, supplies|
       binding.pry
-    
+
   end
 end
 
